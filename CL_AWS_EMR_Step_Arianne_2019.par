@@ -1,0 +1,50 @@
+Application location
+s3://laelgelcarianne/CL_AWS_EMR_Step_Arianne.py
+
+2019_1
+--data_source s3://gelctweets/2019_1/
+--output_path s3://gelcawsemr2/2019_1/filtered_tweets.jsonl
+
+2019_2
+--data_source s3://gelctweets/2019_2/
+--output_path s3://gelcawsemr2/2019_2/filtered_tweets.jsonl
+
+2019_3
+--data_source s3://gelctweets/2019_3/
+--output_path s3://gelcawsemr2/2019_3/filtered_tweets.jsonl
+
+2019_4
+--data_source s3://gelctweets/2019_4/
+--output_path s3://gelcawsemr2/2019_4/filtered_tweets.jsonl
+
+2019_5
+--data_source s3://gelctweets/2019_5/
+--output_path s3://gelcawsemr2/2019_5/filtered_tweets.jsonl
+
+2019_6
+--data_source s3://gelctweets/2019_6/
+--output_path s3://gelcawsemr2/2019_6/filtered_tweets.jsonl
+
+2019_7
+--data_source s3://gelctweets/2019_7/
+--output_path s3://gelcawsemr2/2019_7/filtered_tweets.jsonl
+
+2019_8
+--data_source s3://gelctweets/2019_8/
+--output_path s3://gelcawsemr2/2019_8/filtered_tweets.jsonl
+
+2019_9
+--data_source s3://gelctweets/2019_9/
+--output_path s3://gelcawsemr2/2019_9/filtered_tweets.jsonl
+
+2019_10
+--data_source s3://gelctweets/2019_10/
+--output_path s3://gelcawsemr2/2019_10/filtered_tweets.jsonl
+
+2019_11
+--data_source s3://gelctweets/2019_11/
+--output_path s3://gelcawsemr2/2019_11/filtered_tweets.jsonl
+
+2019_12
+--data_source s3://gelctweets/2019_12/
+--output_path s3://gelcawsemr2/2019_12/filtered_tweets.jsonl
